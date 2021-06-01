@@ -1,0 +1,27 @@
+.headerColor{
+    background-color: #0b132b;
+    height: 50px;
+}
+.container{
+    display: flex;
+    color: grey;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+}
+.logo{
+    font-size: 1.7em;
+}
+.styleLi{
+    margin: 15px;
+    align-items: flex-end;
+}
+.underline{
+    height: 1px;
+    width: 100%;
+    background-color: grey;
+}

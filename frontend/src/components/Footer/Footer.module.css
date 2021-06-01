@@ -1,0 +1,13 @@
+.footerColor{
+    background-color: #0b132b;
+    height: 50px;
+    display: flex;
+    color: grey;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+}
