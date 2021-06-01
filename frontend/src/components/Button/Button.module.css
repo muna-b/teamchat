@@ -1,7 +1,7 @@
 .buttonRed{
     background-color: darkred;
 }
-.buttonBlue{
+.buttonBigBlue{
     background-color: #0d1737;
     color: grey;
     border: grey solid 1px;
@@ -12,10 +12,10 @@
     font-size: 1.2em;
 
 }
-.buttonBlue:hover{
+.buttonBigBlue:hover{
     background-color: #26304f;
 }
-.buttonGreen{
+.buttonBigGreen{
     background-color: darkgreen;
     border-radius: 5px;
     margin: 40px;
@@ -25,6 +25,32 @@
     height: 70px;
     font-size: 1.2em;
 }
-.buttonGreen:hover{
+.buttonBigGreen:hover{
+    background-color: rgb(12, 109, 12);
+}
+.buttonDefault{
+    background-color: #0d1737;
+    color: grey;
+    border: grey solid 1px;
+    border-radius: 5px;
+    margin: 10px;
+    width: 90px;
+    height: 25px;
+
+}
+.buttonDefault:hover{
+    background-color: #26304f;
+}
+.buttonBigGreen{
+    background-color: darkgreen;
+    border-radius: 5px;
+    margin: 40px;
+    color: grey;
+    border: none;
+    width: 120px;
+    height: 70px;
+    font-size: 1.2em;
+}
+.buttonBigGreen:hover{
     background-color: rgb(12, 109, 12);
 }

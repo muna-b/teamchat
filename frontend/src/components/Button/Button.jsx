@@ -5,20 +5,20 @@ function Button({onClick, title, color}) {
     let styleName
 
     switch (color) {
-        case "green":
-            styleName = classNames.buttonGreen;
+        case "bigGreen":
+            styleName = classNames.buttonBigGreen;
             break;
         
         case "red":
             styleName = classNames.buttonRed;
             break;
 
-        case "blue":
-            styleName = classNames.buttonBlue
+        case "bigBlue":
+            styleName = classNames.buttonBigBlue
             break;
     
         default:
-            styleName = classNames.buttonBlue
+            styleName = classNames.buttonDefault
             break;
     }
     return (
