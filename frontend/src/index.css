@@ -23,6 +23,8 @@ ul {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background-color: #0b132b;
+  color: grey;
 }
 footer{
   position: absolute;

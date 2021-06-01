@@ -1,0 +1,30 @@
+.buttonRed{
+    background-color: darkred;
+}
+.buttonBlue{
+    background-color: #0d1737;
+    color: grey;
+    border: grey solid 1px;
+    border-radius: 5px;
+    margin: 40px;
+    width: 150px;
+    height: 70px;
+    font-size: 1.2em;
+
+}
+.buttonBlue:hover{
+    background-color: #26304f;
+}
+.buttonGreen{
+    background-color: darkgreen;
+    border-radius: 5px;
+    margin: 40px;
+    color: grey;
+    border: none;
+    width: 150px;
+    height: 70px;
+    font-size: 1.2em;
+}
+.buttonGreen:hover{
+    background-color: rgb(12, 109, 12);
+}
