@@ -16,17 +16,16 @@ function Home() {
 
                     <div>
                         <Button
-                            color = "blue"
+                            color = "bigBlue"
                             title = "Se connecter"
                         ></Button>
-fiant
                         <Button
-                            color = "green"
+                            color = "bigGreen"
                             title = "S'incrire"
                         ></Button>
 
                         <Button
-                            color = "blue"
+                            color = "bigBlue"
                             title = "Démo"
                         ></Button>
                     </div>
